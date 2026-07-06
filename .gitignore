@@ -36,3 +36,11 @@ coverage/
 .coverage
 htmlcov/
 .pytest_cache/
+
+# Hardhat
+cache/
+artifacts/
+typechain-types/
+coverage.json
+.openzeppelin/
+deployments/
